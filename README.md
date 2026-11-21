@@ -1,3 +1,5 @@
+![cover](cover.png)
+
 # Night-time Camera + LiDAR Fusion
 
 [![CI](https://github.com/kovarthanmuthusamy/Sensor-fusion/actions/workflows/ci.yml/badge.svg)](https://github.com/kovarthanmuthusamy/Sensor-fusion/actions/workflows/ci.yml)
